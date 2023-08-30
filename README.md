@@ -14,9 +14,6 @@ Este repositório oferece temas visualmente atraentes tanto no modo escuro quant
 2. Copie os arquivos CSS correspondentes para a pasta de estilos do seu projeto.
 3. Siga as instruções de implementação fornecidas no arquivo `instrucoes.md` para aplicar o tema selecionado.
 
-## Exemplos
-
-Veja os temas em ação! O diretório `exemplos/` contém demonstrações simples de como os temas Dark e Light podem ser aplicados a elementos comuns de interface.
 
 ## Contribuição
 
@@ -24,7 +21,7 @@ Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou novos r
 
 ## Licença
 
-Este projeto está licenciado sob a Licença XYZ - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está licenciado sob a Licença KeyCoder.com.br
 
 ---
 
